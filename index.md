@@ -12,3 +12,11 @@
 
 ![Image of Kakapo](https://media.wired.com/photos/59326c6058b0d64bb35d1809/master/pass/Kakapo-2.jpg)
 
+
+```python
+print("Its important to keep up and maintain our enviorment, espically bird species")
+bird = true
+if(bird){
+    print("Bird in new zealend are espically threatened")
+}
+```
