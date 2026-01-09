@@ -2,4 +2,13 @@
 
 ## This is a h2 header: Orange-fronted parakeet are another type of endagered bird species in new zealend, threatened by habitat loss 
 
-i will finsih this AT A LATER TIME 
+### This is a h3 header: Kakapo is a type of endagered tonka parot that are endagered in new zealend, threatened by predators & low mating sucess
+
+#### This is a h4 header: Austalian bittern are a type of endagered biterns that live in new zealend, they strugle from habitat loss
+
+##### This is a h5 header: Kea's are one of the smartest but also endagered bird species in new zealend, they struggle from lead posining & man-made acidents
+
+###### This is a h6 header: Rowi is a rare sub-species of kiwi & is also an endagered species in new zealend
+
+![Image of Kakapo](https://media.wired.com/photos/59326c6058b0d64bb35d1809/master/pass/Kakapo-2.jpg)
+
