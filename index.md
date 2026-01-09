@@ -20,3 +20,10 @@ if(bird){
     print("Bird in new zealend are espically threatened")
 }
 ```
+
+- [ ] Research bird species 
+- [ ] Limit personal enviormental footprint
+- [ ] Contribute to research & conservation efforts
+- [X] Volunteer & donate to trustworthy research & conservation orginizations
+- [ ] Adovacte for more animal protections in goverment
+- [ ] Spread bird information on social media/family & friends
